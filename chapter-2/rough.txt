@@ -1,0 +1,5 @@
+Row:  Number of hashes:  Starting position:  Whitespace:
+1       8                   1                   0
+2       6                   2                   1
+3       4                   3                   2
+4       2                   4                   3
